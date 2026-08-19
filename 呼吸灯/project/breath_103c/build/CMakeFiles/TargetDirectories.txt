@@ -1,0 +1,4 @@
+E:/ek/呼吸灯/project/breath_103c/build/CMakeFiles/blocking_sync.elf.dir
+E:/ek/呼吸灯/project/breath_103c/build/CMakeFiles/nonblocking_sync.elf.dir
+E:/ek/呼吸灯/project/breath_103c/build/CMakeFiles/edit_cache.dir
+E:/ek/呼吸灯/project/breath_103c/build/CMakeFiles/rebuild_cache.dir
